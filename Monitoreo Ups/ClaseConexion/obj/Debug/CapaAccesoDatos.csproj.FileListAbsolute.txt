@@ -1,0 +1,29 @@
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ClaseConexion\bin\Debug\ClaseConexion.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ClaseConexion\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ClaseConexion\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ClaseConexion\obj\Debug\ClaseConexion.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ClaseConexion\obj\Debug\ClaseConexion.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\ClaseConexion\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+E:\Mauricio\Proyectos\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ClaseConexion\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.Properties.Resources.resources
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\CapaAccesoDatos.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\bin\Debug\ClaseConexion.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\CapaAccesoDatos.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ClaseConexion\obj\Debug\ClaseConexion.pdb

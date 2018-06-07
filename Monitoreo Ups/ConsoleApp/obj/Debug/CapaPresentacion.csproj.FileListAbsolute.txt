@@ -1,0 +1,70 @@
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ShippingTrackingUtilities.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ClaseConexion.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ShippingTrackingUtilities.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\obj\Debug\ConsoleApp.RastreoEnvio.resources
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ConsoleApp\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.RastreoEnvio.resources
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Mauricio\Proyectos\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.RastreoEnvio.resources
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.RastreoEnvio.resources
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ClaseConexion.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\bin\Debug\ShippingTrackingUtilities.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\ConsoleApp.RastreoEnvio.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\ConsoleApp\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache

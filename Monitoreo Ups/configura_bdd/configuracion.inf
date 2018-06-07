@@ -1,0 +1,4 @@
+[Server]=windowsserver
+[BaseDeDatos]=inbloomTransicion
+[User]=sa
+[Password]=Sql1nbl00m

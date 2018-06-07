@@ -1,0 +1,6 @@
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ShippingTrackingUtilies\bin\Debug\ShippingTrackingUtilities.dll.config
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ShippingTrackingUtilies\bin\Debug\ShippingTrackingUtilities.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ShippingTrackingUtilies\bin\Debug\ShippingTrackingUtilities.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ShippingTrackingUtilies\obj\Debug\EntidadNegocio.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ShippingTrackingUtilies\obj\Debug\ShippingTrackingUtilities.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\ShippingTrackingUtilies\obj\Debug\ShippingTrackingUtilities.pdb

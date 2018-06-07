@@ -1,0 +1,5 @@
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\Negocio\bin\Debug\Negocio.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\Negocio\bin\Debug\Negocio.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\Negocio\obj\Debug\CapaEntidadNegocio.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\Negocio\obj\Debug\Negocio.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\Negocio\obj\Debug\Negocio.pdb

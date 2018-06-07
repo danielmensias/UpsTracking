@@ -1,0 +1,40 @@
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\bin\Debug\ClaseConexion.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\itsupport2.CSOF\Downloads\Utilities-master\Utilities-master\ShippingTrackingUtilities\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.pdb
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Mauricio\Proyectos\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.dll
+E:\MONITOREO\Solucion Ups\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.pdb
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\itsupport2\Documents\Visual Studio 2012\Projects\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\bin\Debug\ClaseConexion.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Monitoreo Ups\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
